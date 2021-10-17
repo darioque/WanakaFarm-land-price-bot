@@ -1,4 +1,4 @@
-# Wanakafarm Land Price bot
+# Wanaka Farm Land Price bot
 
 ## Description
 
